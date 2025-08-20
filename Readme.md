@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm A V Vedanth</h1>
-<h3 align="center">A passionate CSE Student from India</h3>
+<h3 align="center">Passionate about IOT , Systems</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=escape-kinetics&label=Profile%20views&color=0e75b6&style=flat" alt="escape-kinetics" /> </p>
 
