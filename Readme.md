@@ -5,7 +5,7 @@
 
 ### 🚀 About Me  
 I’m a **Computer Science undergraduate** with strong foundations in **systems thinking and design**.  
-My curiosity for how systems are architected has driven me to build **end-to-end IoT solutions** and full-stack applications.  
+My curiosity for how systems are architected has driven me to build **end-to-end IoT solutions** and applications.  
 
 🔹 Recently, I architected a **decoupled IoT system** from scratch, integrating embedded devices with an **AWS cloud backend** via **MQTT** and **RESTful APIs**.  
 🔹 I love tackling **system integration challenges** and am eager to apply my skills in **Python, C, cloud services, and distributed system design** to future projects.  
