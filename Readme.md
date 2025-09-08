@@ -51,6 +51,10 @@ My curiosity for how systems are architected has driven me to build **end-to-end
 
 ---
 
+### 🏆 GitHub Trophies  
+<p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=escape-kinetics&theme=tokyonight&row=1&column=6" alt="trophies" />
+</p>
 
-
+---
 
