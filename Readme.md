@@ -3,28 +3,28 @@
 
 ---
 
-### 🚀 About Me  
+### About Me  
 I’m a **Computer Science undergraduate** with strong foundations in **systems thinking and design**.  
 My curiosity for how systems are architected has driven me to build **end-to-end IoT solutions** and applications.  
 
-🔹 Recently, I architected a **decoupled IoT system** from scratch, integrating embedded devices with an **AWS cloud backend** via **MQTT** and **RESTful APIs**.  
-🔹 I love tackling **system integration challenges** and am eager to apply my skills in **Python, C, cloud services, and distributed system design** to future projects.  
+ Recently, I architected a **decoupled IoT system** from scratch, integrating embedded devices with an **AWS cloud backend** via **MQTT** and **RESTful APIs**.  
+ I love tackling **system integration challenges** and am eager to apply my skills in **Python, C, cloud services, and distributed system design** to future projects.  
 
 ---
 
-### 🌱 Currently Exploring  
+### Currently Exploring  
 - Supervised Machine Learning  
 - Cloud-based IoT Architectures  
 - Scalable Systems Design  
 
 ---
 
-### 📌 Projects  
-📂 Check out my work: [GitHub Repositories](https://github.com/escape-kinetics)
+### Projects  
+Check out my work: [GitHub Repositories](https://github.com/escape-kinetics)
 
 ---
 
-### 📫 Reach Me  
+### Reach Me  
 - Email: **veadnth.kumar24@gmail.com**  
 - LinkedIn: [Vedanth A V](https://www.linkedin.com/in/vedanth-a-v-137587260/)  
 
@@ -43,7 +43,7 @@ My curiosity for how systems are architected has driven me to build **end-to-end
 
 ---
 
-### 📊 GitHub Stats  
+### GitHub Stats  
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=escape-kinetics&show_icons=true&theme=tokyonight" alt="stats" height="160"/>
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=escape-kinetics&layout=compact&theme=tokyonight" alt="langs" height="160"/>
@@ -51,7 +51,7 @@ My curiosity for how systems are architected has driven me to build **end-to-end
 
 ---
 
-### 🏆 GitHub Trophies  
+###  GitHub Trophies  
 <p align="center">
   <img src="https://github-profile-trophy.vercel.app/?username=escape-kinetics&theme=tokyonight&row=1&column=6" alt="trophies" />
 </p>
