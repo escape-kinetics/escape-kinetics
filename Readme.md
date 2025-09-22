@@ -20,7 +20,7 @@ My curiosity for how systems are architected has driven me to build **end-to-end
 ---
 
 ### Projects  
-Check out my work: [GitHub Repositories](https://github.com/escape-kinetics)
+Check out my most recent hackathon project: [Nutriscan](https://github.com/aayushsingh12/NutriScan.git)
 
 ---
 
