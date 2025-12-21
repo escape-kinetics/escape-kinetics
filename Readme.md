@@ -1,19 +1,10 @@
 <h1 align="center">Hi 👋, I'm A V Vedanth</h1>
-<h3 align="center">Systems & IoT Enthusiast | Computer Science Undergraduate</h3>
+<h3 align="center">System Design & IoT  | Computer Science Undergraduate</h3>
 
 ---
 
-### About Me  
-I’m a **Computer Science undergraduate** with strong foundations in **systems thinking and design**.  
-My curiosity for how systems are architected has driven me to build **end-to-end IoT solutions** and applications.  
 
- Recently, I architected a **decoupled IoT system** from scratch, integrating embedded devices with an **AWS cloud backend** via **MQTT** and **RESTful APIs**.  
- I love tackling **system integration challenges** and am eager to apply my skills in **Python, C, cloud services, and distributed system design** to future projects.  
-
----
-
-### Currently Exploring  
-- Supervised Machine Learning  
+### Currently Exploring   
 - Cloud-based IoT Architectures  
 - Scalable Systems Design  
 
@@ -51,10 +42,4 @@ Check out my most recent hackathon project: [Nutriscan](https://github.com/aayus
 
 ---
 
-###  GitHub Trophies  
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=escape-kinetics&theme=tokyonight&row=1&column=6" alt="trophies" />
-</p>
-
----
 
