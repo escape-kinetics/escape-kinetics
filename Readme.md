@@ -34,12 +34,7 @@ Check out my most recent hackathon project: [Nutriscan](https://github.com/aayus
 
 ---
 
-### GitHub Stats  
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=escape-kinetics&show_icons=true&theme=tokyonight" alt="stats" height="160"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=escape-kinetics&layout=compact&theme=tokyonight" alt="langs" height="160"/>
-</p>
 
----
+
 
 
